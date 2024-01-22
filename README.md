@@ -8,7 +8,7 @@ I've encountered three datasets, each with a distinct format (CSV, JSON, .SQL). 
 
 Special thanks to https://www.geeksforgeeks.org/convert-json-to-csv-in-python/ for providing valuable guidance on converting JSON to CSV. Additionally, I want to express my gratitude to Yashsmehta for sharing a repository (https://github.com/yashsmehta/mysqldump-to-csv) that assisted me in converting .SQL dumps to CSV.
 
-For those interested, I've also created a Tableau dashboard showcasing the processed data: [XYZ Business Dashboard](https://public.tableau.com/views/XYZBussinessDashboard/XYZBussinessDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+For those interested, I've also created a Tableau dashboard showcasing the processed data: [XYZ Business Dashboard](https://public.tableau.com/views/XYZBussinessDashboard/XYZBussinessDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) and a bit of Analysis in: [Google Slides](https://docs.google.com/presentation/d/1_HX-Zj6V__-iG6_P3YOdCXV694Ey3f8HnJFP3AXEikk/edit#slide=id.g26651dc39fd_0_11)
 
 Thank you for visiting! I hope this repository proves helpful and meaningful to fellow GitHub users. Feel free to explore and provide feedback.
 
